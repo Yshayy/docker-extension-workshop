@@ -36,7 +36,7 @@ Yshay Yaacobi
 
 ⭐ https://github.com/livecycle/preevy
 
-📄 https://github.com/livecycle/docker-extension
+📄 https://github.com/Yshayy/docker-extension-workshop  
 
 \# https://community.livecycle.io/
 
@@ -186,7 +186,7 @@ layout: end
 Yshay Yaacobi
 
 ⭐ https://github.com/livecycle/preevy    
-📄 https://github.com/Yshayy/preevy-at-civo  
+📄 https://github.com/Yshayy/docker-extension-workshop    
 \# https://community.livecycle.io/
 
 <!--
