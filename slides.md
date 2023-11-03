@@ -122,7 +122,6 @@ functional programming, ux, dx, and more...
 - Instantly share your docker application with anyone
 - Support private/public environments
 - Based on Preevy networking stack
-- Demo
 
 ---
 layout: statement
@@ -136,7 +135,6 @@ layout: statement
 
 - The problem - no web server for CLI apps
 - The solution - adding ttyd magic to Compose
-- Demo
 
 ---
 
@@ -148,12 +146,10 @@ layout: statement
   - Images are not available on Docker Hub
   - Images are not published in the right architecture
 - The solution - use docker git context in compose
-- Demo
 
 ---
 
 # Developer tools for debugging in-flight apps
-- Demo
 
 ---
 
@@ -162,7 +158,6 @@ layout: statement
 - Let's not deal with production yet
 - Under the hood, Livecycle's Docker extension is using Preevy
 - Preevy is an open-source tool for provisioning ephemeral environments
-- Demo
 
 ---
 
@@ -177,7 +172,6 @@ layout: statement
 # What's next?
 
 - Taking collaboration to the next level
-- Demo  
 - Livecycle review tools are in private beta
 - Join our Slack community to get early access
 
