@@ -1,0 +1,9 @@
+services:
+  cli:
+    # image: significantgravitas/auto-gpt:v0.4.1
+    build: 
+     context: https://github.com/Significant-Gravitas/AutoGPT.git#v0.4.1
+     args:
+       BUILD_TYPE: release
+    environment:
+    - OPENAI_API_KEY

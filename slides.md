@@ -40,13 +40,31 @@ Yshay Yaacobi
 
 \# https://community.livecycle.io/
 
+---
+layout: cover
+background: https://images.squarespace-cdn.com/content/v1/5e6542d2ae16460bb741a9eb/1603318636443-A846ACUKNYUBA0RPLJ94/marvin-meyer-SYTO3xs06fU-unsplash.jpg
+---
 
-<!-- 
+# Hackathons are wonderful
 
-Today we're going to talk about ephemeral environment.
-And more specificity, how we can use them as part of our PR flows.
 
--->
+---
+
+# It's all about experimentation
+
+- Learning new skills
+- Trying new technologies
+- Building new products
+
+---
+
+# Working in team require efficient communication
+
+- No time for heavy processes
+- Collaboration between developers, designers, PMs, etc...
+- High visibility to WIP products and experiences
+- Quick feedback loops and iterations
+- Showcasing our work to the world
 
 ---
 layout: two-cols
@@ -60,6 +78,7 @@ layout: two-cols
 - Led development of OSS projects 
 - Cloud development, architecture,   
 functional programming, ux, dx, and more...
+- Participated and co-organized several hackathons
 - Love using Docker & Kubernetes
 
 ::right::
@@ -84,7 +103,7 @@ functional programming, ux, dx, and more...
 - Enhancing PR workflows' more inclusive and efficient
 - **Bridging gaps between developers, designers, product managers, and other stakeholders...**
 
-<div style="background-image:url('/image-13.png')" class="bg-cover bg-center absolute left-0 right-0 bottom-0 h-60"></div>
+<div style="background-image:url('/lc-background.png')" class="bg-cover bg-center absolute left-0 right-0 bottom-0 h-60"></div>
 
 ---
 
@@ -136,6 +155,7 @@ layout: statement
 
 # From local to remote environments
 
+- Let's not deal with production yet
 - Under the hood, Livecycle's Docker extension is using Preevy
 - Preevy is an open-source tool for provisioning ephemeral environments
 - Demo

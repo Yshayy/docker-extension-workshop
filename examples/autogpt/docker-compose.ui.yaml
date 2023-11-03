@@ -1,0 +1,27 @@
+services:
+  cli:
+    depends_on:
+    - ttyd-bin
+    volumes:
+      - shared-bin:/shared-bin
+    entrypoint: 
+    - /shared-bin/ttyd
+    # command: -W bash
+    command: -W python -m autogpt --install-plugin-deps
+    # command: "-W bash -c \"echo alias autogpt=\\\\'python -m autogpt --install-plugin-deps\\\\' > ./.bashrc && echo echo type autogpt to start! >> ./.bashrc && bash --init-file ./.bashrc\"" 
+    
+    ports:
+    - "7681:7681"
+
+  ttyd-bin:
+    image: tsl0922/ttyd
+    user: root
+    entrypoint: 
+      - cp
+      - /usr/bin/ttyd
+      - /shared-bin
+    volumes:
+      - shared-bin:/shared-bin
+
+volumes:
+  shared-bin:
