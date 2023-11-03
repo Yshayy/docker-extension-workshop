@@ -140,9 +140,13 @@ layout: statement
 
 ---
 
-# Sharing a multi-repo application
+# Using git based remote context
 
-- The problem - multiple services in different repositories
+- Problems
+  - App using multiple repositories
+  - Using a fork or external application
+  - Images are not available on Docker Hub
+  - Images are not published in the right architecture
 - The solution - use docker git context in compose
 - Demo
 
