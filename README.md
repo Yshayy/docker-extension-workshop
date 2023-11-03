@@ -1,11 +1,7 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Livecycle Docker extension workshop
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+Links:
+- Livecycle Docker extension - https://open.docker.com/extensions/marketplace?extensionId=livecycle/docker-extension
+- ⭐ https://github.com/livecycle/preevy
+- 📄 https://github.com/Yshayy/docker-extension-workshop  
+- Slack - https://community.livecycle.io/

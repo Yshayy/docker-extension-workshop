@@ -33,11 +33,9 @@ Yshay Yaacobi
 
 <img src="/assets/logo.png" class="mx-auto" />
 
-
-⭐ https://github.com/livecycle/preevy
-
 📄 https://github.com/Yshayy/docker-extension-workshop  
-
+[Livecycle extension on Docker for Desktop](https://open.docker.com/extensions/marketplace?extensionId=livecycle/docker-extension)  
+⭐ https://github.com/livecycle/preevy  
 \# https://community.livecycle.io/
 
 ---
@@ -149,7 +147,7 @@ layout: statement
 
 ---
 
-# Developer tools for debugging in-flight apps
+# Developer tools for in-flight debugging
 
 ---
 
@@ -183,8 +181,9 @@ layout: end
 
 Yshay Yaacobi
 
+📄 https://github.com/Yshayy/docker-extension-workshop  
+[Livecycle extension on Docker for Desktop](https://open.docker.com/extensions/marketplace?extensionId=livecycle/docker-extension)  
 ⭐ https://github.com/livecycle/preevy    
-📄 https://github.com/Yshayy/docker-extension-workshop    
 \# https://community.livecycle.io/
 
 <!--
