@@ -1,0 +1,15 @@
+.slidev-layout[layout="image"] {
+    background-size: contain !important;
+  }
+
+*[layout="image-right"] * {
+    background-size: contain !important;
+}
+
+strong {
+  color: rgb(183, 196, 255)
+}
+
+iframe[id^="asciicast"]{
+  clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 25px), 0% calc(100% - 25px))
+}
